@@ -20,3 +20,18 @@ Create Pivot Tables for summarizing the data.
 Create charts and visualizations.
 Develop an interactive academic performance dashboard.
 Present important findings and KPIs in a professional format.
+## 📂 Dataset
+
+The dataset contains information about student academic performance.
+
+### Main Variables
+
+| Column               | Description                                   |
+| -------------------- | --------------------------------------------- |
+| Student_ID         | Unique identification number for each student |
+| Program            | Student's academic program                    |
+| Attendance_Percent | Student attendance percentage                 |
+| Assignment_Score   | Assignment performance score                  |
+| Midterm_Score      | Midterm examination score                     |
+| Final_Score        | Final examination score                       |
+| Academic_Status    | Student's academic performance status        
