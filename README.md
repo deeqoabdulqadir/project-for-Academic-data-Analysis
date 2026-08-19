@@ -34,4 +34,13 @@ The dataset contains information about student academic performance.
 | Assignment_Score   | Assignment performance score                  |
 | Midterm_Score      | Midterm examination score                     |
 | Final_Score        | Final examination score                       |
-| Academic_Status    | Student's academic performance status        
+| Academic_Status    | Student's academic performance status    
+
+### Dataset Size
+
+* *Original records:* 300 students
+* *Original variables:* 7
+* *Cleaned records:* 297 students
+* *Cleaned variables:* 7
+* *Missing cells identified:* 15
+* *Duplicate records identified:* 3
