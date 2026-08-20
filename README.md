@@ -44,3 +44,16 @@ The dataset contains information about student academic performance.
 * *Cleaned variables:* 7
 * *Missing cells identified:* 15
 * *Duplicate records identified:* 3
+  
+## 🧹 Data Cleaning
+
+The project includes a dedicated Clean_Data sheet where the original dataset was prepared for analysis.
+
+The cleaning process included:
+
+* Identifying missing values.
+* Removing duplicate records.
+* Handling inconsistent program names.
+* Standardizing academic status values.
+* Checking incorrect or unusual values.
+* Preparing the dataset for formulas and Pivot Tables.
