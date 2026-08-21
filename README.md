@@ -57,3 +57,10 @@ The cleaning process included:
 * Standardizing academic status values.
 * Checking incorrect or unusual values.
 * Preparing the dataset for formulas and Pivot Tables.
+Examples of inconsistent values found in the original data include different forms of academic status such as:
+
+* Good Standing
+* good standing
+* At Risk
+
+Program values were also reviewed for inconsistencies such as abbreviated names.
