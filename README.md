@@ -64,3 +64,20 @@ Examples of inconsistent values found in the original data include different for
 * At Risk
 
 Program values were also reviewed for inconsistencies such as abbreviated names.
+## 🧮 Excel Analysis
+
+The Analysis sheet contains formula-based analysis and data-quality checks.
+
+The project demonstrates Excel functions such as:
+
+* AVERAGE
+* AVERAGEIF
+* COUNT
+* COUNTA
+* COUNTIF
+* MAX
+* MIN
+* IF
+* OR
+* Text-cleaning functions
+* Logical analysis formulas
