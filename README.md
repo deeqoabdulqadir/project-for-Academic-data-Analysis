@@ -81,3 +81,17 @@ The project demonstrates Excel functions such as:
 * OR
 * Text-cleaning functions
 * Logical analysis formulas
+### Example Analysis
+
+The project calculates:
+
+* Total number of records
+* Unique student IDs
+* Average attendance
+* Average assignment score
+* Average midterm score
+* Average final score
+* Minimum final score
+* Maximum final score
+* Average final score by academic status
+* Performance flags
