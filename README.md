@@ -95,3 +95,16 @@ The project calculates:
 * Maximum final score
 * Average final score by academic status
 * Performance flags
+## 📊 Pivot Tables
+
+The PivotTables sheet summarizes the cleaned data using Pivot Tables.
+
+The Pivot Tables are used to analyze:
+
+* Number of students by program
+* Academic status distribution
+* Student performance
+* Assignment performance
+* Other summarized academic measures
+
+Pivot Tables make it easier to compare different groups of students and identify patterns in the dataset.
