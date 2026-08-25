@@ -108,3 +108,8 @@ The Pivot Tables are used to analyze:
 * Other summarized academic measures
 
 Pivot Tables make it easier to compare different groups of students and identify patterns in the dataset.
+## 📈 Dashboard
+
+The Dashboard sheet presents the analysis visually through a *Student Academic Performance Dashboard*.
+
+The dashboard is designed to provide a quick overview of student performance.
