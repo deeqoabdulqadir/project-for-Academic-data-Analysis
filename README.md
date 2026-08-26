@@ -113,3 +113,12 @@ Pivot Tables make it easier to compare different groups of students and identify
 The Dashboard sheet presents the analysis visually through a *Student Academic Performance Dashboard*.
 
 The dashboard is designed to provide a quick overview of student performance.
+
+### Dashboard Components
+
+* KPI cards
+* Charts
+* Academic status analysis
+* Program-level analysis
+* Student performance metrics
+* Visual summaries
