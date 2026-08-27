@@ -122,3 +122,4 @@ The dashboard is designed to provide a quick overview of student performance.
 * Program-level analysis
 * Student performance metrics
 * Visual summaries
+The dashboard helps users quickly understand the overall academic situation without manually examining the raw dataset.
