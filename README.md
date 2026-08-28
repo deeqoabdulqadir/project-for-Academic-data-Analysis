@@ -123,3 +123,16 @@ The dashboard is designed to provide a quick overview of student performance.
 * Student performance metrics
 * Visual summaries
 The dashboard helps users quickly understand the overall academic situation without manually examining the raw dataset.
+## 🔍 Key Areas of Analysis
+
+The project focuses on several important questions:
+
+1. How many students are included in the dataset?
+2. What is the average attendance percentage?
+3. What is the average final score?
+4. Which academic programs have the most students?
+5. How many students are in *Good Standing*?
+6. How many students are *At Risk*?
+7. How does attendance relate to academic performance?
+8. What are the minimum and maximum final scores?
+9. Which students may require additional academic attention?
