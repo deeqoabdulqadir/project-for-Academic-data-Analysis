@@ -136,3 +136,15 @@ The project focuses on several important questions:
 7. How does attendance relate to academic performance?
 8. What are the minimum and maximum final scores?
 9. Which students may require additional academic attention?
+
+## 🛠️ Tools Used
+
+* *Microsoft Excel*
+* Excel Formulas
+* Excel Tables
+* Pivot Tables
+* Pivot Charts
+* Data Cleaning
+* Data Analysis
+* Data Visualization
+* Dashboard Design
