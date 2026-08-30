@@ -148,3 +148,29 @@ The project focuses on several important questions:
 * Data Analysis
 * Data Visualization
 * Dashboard Design
+
+## 📁 Workbook Structure
+
+text
+Book1211.xlsx
+│
+├── Original data
+│   └── Raw student performance dataset
+│
+├── Clean_Data
+│   └── Cleaned and prepared dataset
+│
+├── Analysis
+│   └── Formulas, statistics and quality checks
+│
+├── PivotTables
+│   └── Pivot Table summaries
+│
+├── Dashboard
+│   └── Student Academic Performance Dashboard
+│
+├── Sheet1
+│   └── Supporting worksheet
+│
+└── Project-info
+    └── Project information and documentation
