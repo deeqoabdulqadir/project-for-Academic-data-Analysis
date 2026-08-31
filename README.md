@@ -174,3 +174,13 @@ Book1211.xlsx
 │
 └── Project-info
     └── Project information and documentation
+## 📌 Key Findings
+
+The analysis is designed to identify:
+
+* Overall student academic performance.
+* Attendance patterns.
+* Students classified as *Good Standing* and *At Risk*.
+* Differences in performance between academic programs.
+* Missing and inconsistent data issues.
+* High and low academic performance indicators.
