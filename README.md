@@ -184,3 +184,23 @@ The analysis is designed to identify:
 * Differences in performance between academic programs.
 * Missing and inconsistent data issues.
 * High and low academic performance indicators.
+The dashboard provides a visual summary of these findings for easier interpretation.
+
+---
+
+## 🎓 Skills Demonstrated
+
+This project demonstrates practical skills in:
+
+* Excel Data Cleaning
+* Data Preparation
+* Data Validation
+* Excel Formulas
+* Statistical Analysis
+* Conditional Logic
+* Pivot Tables
+* Data Visualization
+* Dashboard Development
+* KPI Creation
+* Analytical Thinking
+* Reporting and Presentation
