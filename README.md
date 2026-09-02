@@ -204,3 +204,35 @@ This project demonstrates practical skills in:
 * KPI Creation
 * Analytical Thinking
 * Reporting and Presentation
+## 🚀 Future Improvements
+
+Future versions of this project could include:
+
+* More interactive slicers.
+* Additional KPIs.
+* Advanced Excel functions such as XLOOKUP, FILTER, and UNIQUE.
+* Power Query for automated data cleaning.
+* Power Pivot and Data Model.
+* More advanced statistical analysis.
+* Automated dashboard updates.
+* Power BI version of the dashboard.
+
+---
+
+## 👤 Author
+
+*Deeqo Abdulkadir*
+
+### Project
+
+*Student Attendance and Academic Performance Analysis*
+
+### Tool
+
+*Microsoft Excel*
+
+---
+
+## ⭐ Project Purpose
+
+This project was created as a practical *Excel Data Analytics portfolio project* to demonstrate the ability to clean, analyze, visualize, and communicate insights from a real-world-style student performance dataset.
